@@ -1,3 +1,4 @@
+REMOTE
 # conflits
 Je mets quelques lignes
 comme demandé 
